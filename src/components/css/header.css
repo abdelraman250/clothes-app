@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    background-color: #d9cbcb;
+}
+p{
+    text-transform: capitalize;
+    font-size: 22px;
+    margin: 4px;
+}
+.header div{
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+}
+input{
+    border: none;
+    border-bottom: 1px solid #cdb9b9;
+    border-left: 1px solid #cdb9b9;
+}
+label{
+    font-size: 19px;
+    cursor: pointer;
+}

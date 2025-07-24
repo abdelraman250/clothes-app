@@ -1,0 +1,54 @@
+ul {
+  list-style: none;
+  display: flex;
+  gap: 52px;
+  width: fit-content;
+  margin: 31px auto;
+  color: #7cd739;
+  font-size: 20px;
+}
+
+li {
+  cursor: pointer;
+}
+
+.divcard {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  min-height: 200px;
+  text-align: center;
+}
+
+.divcard div {
+  background-color: white;
+  padding: 30px;
+  border: 1px solid #80808021;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.divcard div:hover {
+  transform: translateY(-15px);
+  transition: transform 0.4s;
+}
+
+img {
+  height: 300px;
+  width: -webkit-fill-available;
+}
+
+.divcard h3 {
+  font-weight: 500;
+  margin: 15px;
+}
+
+.divcard button {
+  color: #cf3fdf;
+  font-size: 18px;
+  border: none;
+  padding: 5px 18px;
+  margin-bottom: 7px;
+  cursor: pointer;
+}
