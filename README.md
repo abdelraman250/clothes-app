@@ -7,12 +7,17 @@
 
 * **Home Page (Products Showcase):**
 
+<img width="1280" height="909" alt="home" src="https://github.com/user-attachments/assets/2ebef150-1a05-4921-bf2c-9c5e01300012" />
+
 
 * **Shopping Cart:**
+<img width="1280" height="909" alt="shop cart" src="https://github.com/user-attachments/assets/954154c6-8ed5-4198-8d5d-8178fc321d41" />
 
 
 * **Search and Category Filter:**
+<img width="1280" height="906" alt="electronics" src="https://github.com/user-attachments/assets/a67ef3f5-7b6e-4cf0-87fd-016bea6a0aba" />
 
+<img width="1280" height="910" alt="women" src="https://github.com/user-attachments/assets/46f3c6ba-b02f-44fa-9fd2-1abcc270a706" />
 
 
 ## Main features
